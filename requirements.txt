@@ -4,6 +4,6 @@ pyshorteners==1.0.1
 pyperclip==1.8.2
 pydub==0.25.1
 Pillow==9.3.0
-speech_recognition==3.9.0
+SpeechRecognition==3.9.0
 streamlit_lottie==0.0.3
 requests==2.28.1
